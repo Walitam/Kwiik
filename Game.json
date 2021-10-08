@@ -1,0 +1,14 @@
+{
+    "buildings": [
+        {
+            "name": "Time",
+            "codeName": "timeB",
+            "baseGen": 1
+        },
+        {
+            "name": "Human",
+            "codeName": "humanB",
+            "baseGen": 5
+        }
+    ]
+}
